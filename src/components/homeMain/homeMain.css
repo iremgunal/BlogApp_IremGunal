@@ -1,0 +1,65 @@
+
+.homeCard {
+    background: transparent;
+    backdrop-filter: blur(10px);
+    border: 1px solid transparent;
+    color: whitesmoke;
+    height: 500px;
+    
+}
+.homeCardContent{
+    display: flex;
+    align-items: center;
+    padding-top: 70px ;
+}
+.homeCardRight{
+    font-size: 30px;
+}
+.homeCardLeft{
+    font-size: 50px;
+    padding-left: 100px;
+}
+.homePageLink{
+    text-decoration: none;
+    width: 500px;
+    margin-bottom: 15px;
+    font-weight: bold;
+
+}
+.homePageLink:hover {
+    color: rgba(245, 245, 245, 0.358);
+    margin-bottom: 18px;
+
+
+}
+.homePageNav{
+    color: whitesmoke;
+    border-bottom: 1px solid whitesmoke;
+       
+}
+.homePageIcons{
+    padding-top: 10px;
+    padding-left:130px ;
+}
+
+.githubIcon {
+    color: whitesmoke;
+
+}
+
+.twIcon {
+    color: whitesmoke;
+
+}
+
+.linkedinIcon {
+    color: whitesmoke;
+}
+
+.mailIcon {
+    color: whitesmoke;
+
+}
+
+
+

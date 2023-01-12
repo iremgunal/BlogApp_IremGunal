@@ -1,0 +1,46 @@
+.blogs {
+    background-color: #6D9886;
+}
+.post{
+background: transparent;
+background-color: rgba(255, 255, 255, 0.444);
+color: black;
+font-size: 20px;
+width:900px ;
+margin:  auto;
+
+}
+.postImg{
+ margin-left: 140px ;
+    
+}
+.deletePost{
+    margin-left: 850px;
+}
+.deleteBtn{
+    color: rgb(54, 54, 54);
+    cursor: pointer;
+}
+
+.title{
+color: rgb(75, 11, 11);
+font-size: 40px;
+font-weight: bold;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 10px ;
+}
+
+.postTextContainer{
+margin: 15px;
+}
+.authorImg{
+    margin: 5px;
+    margin-left: 15px;
+}
+
+.authorInfo{
+    color: rgb(92, 21, 21);
+    font-weight: bold;
+}

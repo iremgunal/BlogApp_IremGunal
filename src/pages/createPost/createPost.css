@@ -1,0 +1,51 @@
+.createPost{
+    background-color: #6D9886;
+}
+.cpContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    width: 700px;
+    background-color: rgba(248, 252, 255, 0.781);
+    height: 650px;
+
+}
+.cpContainer h1{
+    font-weight: bold;
+}
+.inputGp{
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    
+}
+.inputSize{
+    margin-left: 10px;
+    width: 600px;
+    border-radius: 8px;
+    border: 2px solid #404646;
+}
+
+.inputSizePost{
+    margin-left: 10px;
+    width: 600px;
+    border-radius: 8px;
+    border: 2px solid #404646;
+    height: 400px;
+}
+.submitPost{
+    background-color:#027a72;
+    color: whitesmoke;
+    font-weight: bold;
+    padding: 2px;
+    font-size: 20px;
+    border-radius: 8px;
+    border: 1px solid whitesmoke;
+}
+.submitPost:hover {
+    background-color: whitesmoke;
+    color: #027a72;
+    font-size: 22px;
+}

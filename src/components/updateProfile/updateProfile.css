@@ -1,0 +1,28 @@
+.updateProfileCard{
+    background: transparent;
+    width: 1600px;
+    justify-content: center;
+    align-items: center;
+    margin:100px auto;
+    background-color: #c2ffe15c;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.updateBtn{
+    background-color: #a3a7a1;
+    color: #716d6d;
+    width: 190px;
+    border: 1px solid #90b77d;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.updateBtn:hover{
+    background-color: #697b60;
+    border: 1px solid #697b60;
+
+}
+
+.title{
+    color: #eefae8;
+}

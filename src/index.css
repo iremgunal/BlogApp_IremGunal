@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:ital,wght@0,400;0,700;1,400&display=swap');
+body {
+  height: 100vh;
+  font-weight: 100vw;
+  margin: 0;
+  font-family: 'Josefin Slab', serif;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('./images/homeBg.png');
+  
+
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #000000e4;
+}
+
+code {
+  font-family: 'Josefin Slab', serif;
+
+
+}

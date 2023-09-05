@@ -1,5 +1,16 @@
+
+https://github.com/iremgunal/BlogApp_IremGunal/assets/101289998/3ea75690-161b-470b-b469-799a51880906
 <strong>Technologies:</strong>Html, Css, JavaScript, React.js, Firebase, Redux, Bootstrap
+
+https://github.com/iremgunal/BlogApp_IremGunal/assets/101289998/c1d410f8-21c9-463e-8613-8068a34ee2bb
+
 # Getting Started with Create React App
+
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
